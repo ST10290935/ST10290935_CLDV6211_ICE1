@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aiden\\source\\repos\\ST10290935_CLDV6211_ICE1\\directory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08864539-1DC5-466E-86BF-D61931250CEE}|directory.csproj|c:\\users\\aiden\\source\\repos\\st10290935_cldv6211_ice1\\directory\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08864539-1DC5-466E-86BF-D61931250CEE}|directory.csproj|solutionrelative:models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08864539-1DC5-466E-86BF-D61931250CEE}|directory.csproj|c:\\users\\aiden\\source\\repos\\st10290935_cldv6211_ice1\\directory\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08864539-1DC5-466E-86BF-D61931250CEE}|directory.csproj|solutionrelative:controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08864539-1DC5-466E-86BF-D61931250CEE}|directory.csproj|c:\\users\\aiden\\source\\repos\\st10290935_cldv6211_ice1\\directory\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08864539-1DC5-466E-86BF-D61931250CEE}|directory.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08864539-1DC5-466E-86BF-D61931250CEE}|directory.csproj|c:\\users\\aiden\\source\\repos\\st10290935_cldv6211_ice1\\directory\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08864539-1DC5-466E-86BF-D61931250CEE}|directory.csproj|solutionrelative:views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08864539-1DC5-466E-86BF-D61931250CEE}|directory.csproj|c:\\users\\aiden\\source\\repos\\st10290935_cldv6211_ice1\\directory\\views\\book\\deletebook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08864539-1DC5-466E-86BF-D61931250CEE}|directory.csproj|solutionrelative:views\\book\\deletebook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08864539-1DC5-466E-86BF-D61931250CEE}|directory.csproj|c:\\users\\aiden\\source\\repos\\st10290935_cldv6211_ice1\\directory\\views\\book\\addbook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08864539-1DC5-466E-86BF-D61931250CEE}|directory.csproj|solutionrelative:views\\book\\addbook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08864539-1DC5-466E-86BF-D61931250CEE}|directory.csproj|c:\\users\\aiden\\source\\repos\\st10290935_cldv6211_ice1\\directory\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08864539-1DC5-466E-86BF-D61931250CEE}|directory.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\aiden\\source\\repos\\ST10290935_CLDV6211_ICE1\\directory\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Models\\Book.cs",
+              "ToolTip": "C:\\Users\\aiden\\source\\repos\\ST10290935_CLDV6211_ICE1\\directory\\Models\\Book.cs",
+              "RelativeToolTip": "Models\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T15:36:39.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\aiden\\source\\repos\\ST10290935_CLDV6211_ICE1\\directory\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\aiden\\source\\repos\\ST10290935_CLDV6211_ICE1\\directory\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-18T15:20:38.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\aiden\\source\\repos\\ST10290935_CLDV6211_ICE1\\directory\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\aiden\\source\\repos\\ST10290935_CLDV6211_ICE1\\directory\\Controllers\\BookController.cs",
+              "RelativeToolTip": "Controllers\\BookController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAgwBAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T15:19:12.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DeleteBook.cshtml",
+              "DocumentMoniker": "C:\\Users\\aiden\\source\\repos\\ST10290935_CLDV6211_ICE1\\directory\\Views\\Book\\DeleteBook.cshtml",
+              "RelativeDocumentMoniker": "Views\\Book\\DeleteBook.cshtml",
+              "ToolTip": "C:\\Users\\aiden\\source\\repos\\ST10290935_CLDV6211_ICE1\\directory\\Views\\Book\\DeleteBook.cshtml",
+              "RelativeToolTip": "Views\\Book\\DeleteBook.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-18T15:17:12.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddBook.cshtml",
+              "DocumentMoniker": "C:\\Users\\aiden\\source\\repos\\ST10290935_CLDV6211_ICE1\\directory\\Views\\Book\\AddBook.cshtml",
+              "RelativeDocumentMoniker": "Views\\Book\\AddBook.cshtml",
+              "ToolTip": "C:\\Users\\aiden\\source\\repos\\ST10290935_CLDV6211_ICE1\\directory\\Views\\Book\\AddBook.cshtml",
+              "RelativeToolTip": "Views\\Book\\AddBook.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-18T15:16:20.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\aiden\\source\\repos\\ST10290935_CLDV6211_ICE1\\directory\\Views\\Book\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Book\\Index.cshtml",
+              "ToolTip": "C:\\Users\\aiden\\source\\repos\\ST10290935_CLDV6211_ICE1\\directory\\Views\\Book\\Index.cshtml",
+              "RelativeToolTip": "Views\\Book\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-18T15:13:29.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\aiden\\source\\repos\\ST10290935_CLDV6211_ICE1\\directory\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\aiden\\source\\repos\\ST10290935_CLDV6211_ICE1\\directory\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-19T12:25:31.282Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

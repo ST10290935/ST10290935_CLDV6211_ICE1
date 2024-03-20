@@ -1,0 +1,31 @@
+﻿@{
+    ViewBag.Title = "Add Book";
+}
+
+<h1>Add Book</h1>
+
+@using (Html.BeginForm())
+{
+    <table>
+        <tr>
+            <td><label for="Title">Title:</label></td>
+            <td><input type="text" id="Title" name="Title" required></td>
+        </tr>
+        <tr>
+            <td><label for="Author">Author:</label></td>
+            <td><input type="text" id="Author" name="Author" required></td>
+        </tr>
+        <tr>
+            <td><label for="Genre">Genre:</label></td>
+            <td><input type="text" id="Genre" name="Genre" required></td>
+        </tr>
+        <tr>
+            <td><label for="PublicationYear">Publication Year:</label></td>
+            <td><input type="number" id="PublicationYear" name="PublicationYear" required></td>
+        </tr>
+    </table>
+
+    <button type="submit">Add</button>
+}
+
+@Html.ActionLink("Back to List", "Index")

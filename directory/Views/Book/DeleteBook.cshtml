@@ -1,0 +1,11 @@
+﻿@{
+    ViewBag.Title = "Book Tracker";
+}
+
+<h1>Delete Book</h1>
+<p>Are you sure you want to delete this book?</p>
+@using (Html.BeginForm("DeleteBook", "Book", new { id = ViewBag.Id }, FormMethod.Post))
+{
+    <button type="submit">Delete</button>
+}
+@Html.ActionLink("Cancel", "Index")

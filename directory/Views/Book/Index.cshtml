@@ -1,0 +1,18 @@
+﻿@{
+    ViewBag.Title = "Index";
+}
+
+<h1>Book Tracker</h1>
+<ul>
+    @foreach (var book in ViewBag.Books)
+    {
+        <li>
+            @book.Title by @book.Author (@book.PublicationYear) - @book.Genre
+            @using (Html.BeginForm("DeleteBook", "Book", new { id = book.Id }, FormMethod.Post))
+            {
+                <button type="submit">Delete</button>
+            }
+        </li>
+    }
+</ul>
+@Html.ActionLink("Add Book", "AddBook")
